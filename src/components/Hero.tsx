@@ -51,7 +51,7 @@ export default function Hero() {
           >
             <h1 className="text-5xl md:text-7xl font-bold text-gray-900 dark:text-white">
               안녕하세요,{' '}
-              <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+              <span className="text-green-600">
                 개발자
               </span>
               입니다
